@@ -3,15 +3,14 @@ AUTHOR: Pedro Burgo Vázquez
 
 DATE: 22/12/2017
 
-
 #### Descripción de la Práctica
 
 Como Tarea del Módulo 4 del Master de Big Data de Telefónica, se realiza un *streaming* de 24 horas usando la api
 de *tweepy*. Como parámetros de filtrado se han usado:
  
-	` track = ['Curie', 'Planck', 'Einstein', 'Bohr', 'Fleming', 'Higgs']`
+	track = ['Curie', 'Planck', 'Einstein', 'Bohr', 'Fleming', 'Higgs']
 
-	`languages = ['en']`
+	languages = ['en']
 
 En cada cambio de hora, se han exportado los *tweets* recogidos a un archivo *json* y guardado en un directorio separado (`'./jsons'`).
 Las imágenes también se han guardado en su propio directorio (`'./images'`).
