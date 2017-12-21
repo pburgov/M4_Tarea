@@ -29,8 +29,21 @@ La clase `MyListener(StreamListener)` que se presenta en el archivo *ejercicio_p
             
 En el archivo adjunto *my_listener.py* se muestra la clase tal y como se usó para recuperar los tweets y crear los jsons cada cambio de hora.
 
-Total de tweets recogidos: 11.385 
+Total de tweets recogidos: **11.385**
 
-Se muestra el resultado de las estadísticas en archivo M4_Tarea_Estadisticas.pdf
 
-![alt text](https://github.com/pburgov/M4_Tarea/blob/master/images/Hours.png)
+Se muestra el resultado de las estadísticas en el archivo M4_Tarea_Estadisticas.pdf
+
+Se solicita el número de *tweets* agregado por hora. El resultado es:
+
+| Hora  | Tweets | Hora  | Tweets | Hora  | Tweets | Hora  | Tweets |
+|:-----:| ------:|:-----:| ------:|:-----:| ------:|:-----:| ------:|
+| 1     | 465    |   7   | 331    |  13   | 467    |  19   | 580    |
+| 2     | 526    |   8   | 330    |  14   | 493    |  20   | 508    |
+| 3     | 529    |   9   | 375    |  15   | 551    |  21   | 484    |
+| 4     | 491    |  10   | 362    |  16   | 742    |  22   | 524    |   
+| 5     | 331    |  11   | 363    |  17   | 631    |  23   | 489    |  
+| 6     | 356    |  12   | 417    |  18   | 586    |  24   | 454    |
+
+
+![alt text](./images/Hours.png)
