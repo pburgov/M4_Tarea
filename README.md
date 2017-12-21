@@ -3,7 +3,7 @@ AUTHOR: Pedro Burgo Vázquez
 
 DATE: 22/12/2017
 
-#### Descripción de la Práctica  
+#### Descripción de la Práctica
 
 Como Tarea del Módulo 4 del Master de Big Data de Telefónica, se realiza un *streaming* de 24 horas usando la api
 de *tweepy*. Como parámetros de filtrado se han usado:
@@ -32,3 +32,5 @@ En el archivo adjunto *my_listener.py* se muestra la clase tal y como se usó pa
 Total de tweets recogidos: 11.385 
 
 Se muestra el resultado de las estadísticas en archivo M4_Tarea_Estadisticas.pdf
+
+![alt text](https://github.com/pburgov/M4_Tarea/blob/master/images/Hours.png)
